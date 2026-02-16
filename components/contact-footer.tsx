@@ -7,7 +7,7 @@ export default function ContactFooter() {
   const currentYear = new Date().getFullYear()
 
   const socialLinks = [
-    { icon: Instagram, href: "https://www.instagram.com/flexyb999?igsh=MWxoZXZ4N3k1ZXNtcw==", label: "Instagram" },
+    { icon: Instagram, href: "https://www.instagram.com/milligbp", label: "Instagram" },
     // { icon: Twitter, href: "#", label: "Twitter" },
     // { icon: Facebook, href: "#", label: "Facebook" },
     { icon: Mail, href: "mailto:Flexybeeofficial@gmail.com", label: "Email" },
@@ -24,11 +24,11 @@ export default function ContactFooter() {
             <div className="space-y-4">
               <a href="mailto:hello@artist.com" className="flex items-center gap-3 hover:text-accent transition-colors">
                 <Mail className="w-5 h-5" />
-                <span>Flexybeeofficial@gmail.com</span>
+                <span>officialmilligbp@gmail.com</span>
               </a>
               <a href="tel:+1234567890" className="flex items-center gap-3 hover:text-accent transition-colors">
                 <Phone className="w-5 h-5" />
-                <span>+234 814 055 6479</span>
+                <span>+234 8133 5166 61</span>
               </a>
             </div>
           </div>
@@ -95,7 +95,7 @@ export default function ContactFooter() {
         {/* Bottom Footer */}
         <div className="border-t border-primary-foreground/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-primary-foreground/80">
-            <p>&copy; {currentYear} FlexyB. All rights reserved.</p>
+            <p>&copy; {currentYear} Milligbp. All rights reserved.</p>
             <div className="flex gap-6">
               <Link href="#" className="hover:text-accent transition-colors">
                 Privacy Policy

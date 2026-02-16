@@ -39,7 +39,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-background/80 backdrop-blur border-b border-border">
       <nav className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         <Link href="#" className="text-2xl font-bold text-primary">
-          FlexyB
+          MilliGBP
         </Link>
 
         {/* Desktop Navigation */}
