@@ -11,16 +11,16 @@ const albums = [
     image: "/planb.png",
     href: "https://fm.fanlink.tv/Planb"
   },
+  // {
+  //   id: 2,
+  //   title: "Party Anthem",
+  //   year: 2025,
+  //   // tracks: 11,
+  //   image: "/party.png",
+  //   href: "https://ffm.to/flexyb-party-anthem"
+  // },
   {
     id: 2,
-    title: "Party Anthem",
-    year: 2025,
-    // tracks: 11,
-    image: "/party.png",
-    href: "https://ffm.to/flexyb-party-anthem"
-  },
-  {
-    id: 3,
     title: "Pusing-P",
     year: 2025,
     // tracks: 13,

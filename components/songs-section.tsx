@@ -8,28 +8,28 @@ const galleryImages = [
     id: 1,
     title: "Vibrant Teal Artwork",
     description: "Abstract teal composition with geometric patterns",
-    image: "/One.png",
+    image: "/second.png",
     category: "Abstract",
   },
   {
     id: 2,
     title: "Davido Five Tour",
     description: "Warm golden tones with flowing brush strokes",
-    image: "/Two.png",
+    image: "/seconded.png",
     category: "Landscape",
   },
   {
     id: 3,
     title: "Ocean Depths",
     description: "Deep blue ocean waves in motion",
-    image: "/Three.png",
+    image: "/twoo.png",
     category: "Nature",
   },
   {
     id: 4,
     title: "Serene Landscape",
     description: "Peaceful mountain scene at dusk",
-    image: "/Four.png",
+    image: "/thirded.png",
     category: "Landscape",
   },
 ]
@@ -99,7 +99,7 @@ export default function GallerySection() {
               Image Gallery
             </h2>
             <p className="text-lg text-foreground/70 max-w-2xl mx-auto text-balance">
-              Browse our collection of stunning images. Click on any image to view it in full detail.
+              Browse the artisit's collection of stunning images. Click on any image to view it in full detail.
             </p>
           </div>
 
